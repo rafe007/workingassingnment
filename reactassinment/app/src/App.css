@@ -1,0 +1,21 @@
+.nav-bar{
+  list-style: none;
+  background-color: brown;
+  padding: 20px;
+  margin: 0;
+}
+.nav-bar li{
+  display: inline;
+  
+}
+.nav-bar li a{
+  padding: 20px; 
+  color: #fff;
+  text-decoration: none;
+}
+.nav-bar li a.active{
+  background-color: black;
+}
+h2{
+  text-align: center;
+}

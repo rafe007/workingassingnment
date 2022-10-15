@@ -1,0 +1,19 @@
+.moviecard{
+    background-color: #fff;
+    color: #000;
+    border-radius: 15px;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+}
+.moviecard li{
+    padding: 10px 20px 30px 20px;
+    background-color: #eee;
+    margin: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 220px;
+}
